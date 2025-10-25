@@ -6,7 +6,7 @@ Sou participante do programa **Santander Code Girls – 2025**, em parceria com 
 Consolidar os conhecimentos adquiridos em um ambiente prático, integrando os serviços EC2, S3, EBS e Lambda para automatizar o gerenciamento de instâncias na nuvem.
 
 ## Arquitetura da Solução
-![Arquitetura AWS](img/aws_desafio.drawio.png)
+![](img/aws_desafio.drawio.png)
 
 ### Fluxo do Gerenciamento:
 
