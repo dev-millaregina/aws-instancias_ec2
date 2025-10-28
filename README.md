@@ -7,6 +7,7 @@ Consolidar os conhecimentos adquiridos em um ambiente prático, integrando os se
 
 ## Arquitetura da Solução
 ![](img/aws_desafio.drawio.png)
+![](https://raw.githubusercontent.com/dev-millaregina/AWS_INSTANCIAS_EC2/main/img/aws_desafio.drawio.png)
 
 ### Fluxo do Gerenciamento:
 
